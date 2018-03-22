@@ -1,0 +1,334 @@
+	THIS IS A SPECIAL DIRECTORY TO USING SKYBOX TEXTURES IN YOUR MAP!
+                                by. sgtmyers88
+                   PLEASE DO NOT EDIT THIS WITHOUT MY PERMISSION!
+
+
+FIRST THINGS FIRST:
+
+	A Skybox is a special textured background for those cinematic scenes
+in the Command & Conquer Generals and Zero Hour maps and single player missions.
+You can use the Skybox to create a sky or even some background scenery! i.e trees, mountains, etc.
+
+====== EXAMPLE! ======
+
+;I dont know why it only works under Water Transparency... ask the original game designers.
+
+WaterTransparency
+  TransparentWaterMinOpacity = 0.9   ;opacity of water at maximum depth - 1.0 is opaque, 0 transparent.
+  TransparentWaterDepth = 6.0       ;depth below water surface at which it becomes opaque (unless clipped by TransparentWaterMinOpacity)
+  StandingWaterTexture = TSWater03.tga ;TWWater01.tga ;there are two types of water by default
+  StandingWaterColor = R:0 G:0 B:0 ;color of the water
+  RadarWaterColor = R:0 G:0 B:0 ;color of the water shown on the mini map screen
+  AdditiveBlending = Yes ;Uncomment this if you want Additive Blending acivated
+
+;This is where you will input your skybox data.
+
+;The Following is the skybox settings that are used by default when you activate Skybox Mode in World Builder
+
+  SkyboxTextureN = TSMorningN.tga
+  SkyboxTextureE = TSMorningE.tga
+  SkyboxTextureS = TSMorningS.tga
+  SkyboxTextureW = TSMorningW.tga
+  SkyboxTextureT = TSMorningT.tga
+
+End
+
+====== END EXAMPLE! ======
+
+
+SPECIAL NOTE:
+	TsMorning, TSMoonSky, and TSRain are in the game by default. The others
+are additions that came with my Mod. You can create and add your own skybox textures
+by selecting a good, clear, scenic picture and importing it to the "Art" Folder in the C&C
+Generals or Zero Hour Main Game Data Directory. 
+
+C:\Program Files\EA Games\Command & Conquer Generals\
+
+====== OR ======
+
+C:\Program Files\EA Games\Command & Conquer Generals Zero Hour\
+
+
+If you don't have an "Art" Folder then create one and name it "Art".
+
+
+ALSO NOTE THAT THIS HAS NOT BEEN TESTED IN GENERALS, JUST IN ZERO HOUR!
+
+
+
+;-------------------------------------------------------------------------------
+;SKYBOX TEXTURES!
+;-------------------------------------------------------------------------------
+
+;-------------------------------------------------------------------------------
+;Night
+
+  SkyboxTextureN = TSMoonSky_N.tga
+  SkyboxTextureE = TSMoonSky_E.tga
+  SkyboxTextureS = TSMoonSky_S.tga
+  SkyboxTextureW = TSMoonSky_W.tga
+  SkyboxTextureT = TSMoonSky_T.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Morning
+
+  SkyboxTextureN = TSMorningN.tga
+  SkyboxTextureE = TSMorningE.tga
+  SkyboxTextureS = TSMorningS.tga
+  SkyboxTextureW = TSMorningW.tga
+  SkyboxTextureT = TSMorningT.tga
+
+End
+
+;-------------------------------------------------------------------------------
+Day
+
+Variant 1
+
+  SkyboxTextureN = TSSunny_N.tga
+  SkyboxTextureE = TSSunny_E.tga
+  SkyboxTextureS = TSSunny_S.tga
+  SkyboxTextureW = TSSunny_W.tga
+  SkyboxTextureT = TSSunny_T.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Day01.tga
+  SkyboxTextureE = Day01.tga
+  SkyboxTextureS = Day01.tga
+  SkyboxTextureW = Day01.tga
+  SkyboxTextureT = Day01.tga
+
+End
+
+Variant 3
+
+  SkyboxTextureN = Day02.tga
+  SkyboxTextureE = Day02.tga
+  SkyboxTextureS = Day02.tga
+  SkyboxTextureW = Day02.tga
+  SkyboxTextureT = Day02.tga
+
+End
+
+Variant 4
+
+  SkyboxTextureN = Day03.tga
+  SkyboxTextureE = Day03.tga
+  SkyboxTextureS = Day03.tga
+  SkyboxTextureW = Day03.tga
+  SkyboxTextureT = Day03.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Cloudy/Rainy/Snowy
+
+Variant 1
+
+  SkyboxTextureN = TSRain_N.tga
+  SkyboxTextureE = TSRain_E.tga
+  SkyboxTextureS = TSRain_S.tga
+  SkyboxTextureW = TSRain_W.tga
+  SkyboxTextureT = TSRain_T.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = TSMrnCldy_N.tga
+  SkyboxTextureE = TSMrnCldy_E.tga
+  SkyboxTextureS = TSMrnCldy_S.tga
+  SkyboxTextureW = TSMrnCldy_W.tga
+  SkyboxTextureT = TSMrnCldy_T.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Evening
+
+  SkyboxTextureN = Sunset.tga
+  SkyboxTextureE = Sunset.tga
+  SkyboxTextureS = Sunset.tga
+  SkyboxTextureW = Sunset.tga
+  SkyboxTextureT = Sunset.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Background Scenery (skybox)
+;-------------------------------------------------------------------------------
+
+;-------------------------------------------------------------------------------
+;Hills/Foggy
+
+  SkyboxTextureN = BlueHills.tga
+  SkyboxTextureE = BlueHills.tga
+  SkyboxTextureS = BlueHills.tga
+  SkyboxTextureW = BlueHills.tga
+  SkyboxTextureT = BlueHills.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Canyon
+
+  SkyboxTextureN = Canyon.tga
+  SkyboxTextureE = Canyon.tga
+  SkyboxTextureS = Canyon.tga
+  SkyboxTextureW = Canyon.tga
+  SkyboxTextureT = Canyon.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Desert
+
+Variant 1
+
+  SkyboxTextureN = Desert01.tga
+  SkyboxTextureE = Desert01.tga
+  SkyboxTextureS = Desert01.tga
+  SkyboxTextureW = Desert01.tga
+  SkyboxTextureT = Desert01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Desert02.tga
+  SkyboxTextureE = Desert02.tga
+  SkyboxTextureS = Desert02.tga
+  SkyboxTextureW = Desert02.tga
+  SkyboxTextureT = Desert02.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Temperate
+
+Variant 1
+
+  SkyboxTextureN = Temperate01.tga
+  SkyboxTextureE = Temperate01.tga
+  SkyboxTextureS = Temperate01.tga
+  SkyboxTextureW = Temperate01.tga
+  SkyboxTextureT = Temperate01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Temperate02.tga
+  SkyboxTextureE = Temperate02.tga
+  SkyboxTextureS = Temperate02.tga
+  SkyboxTextureW = Temperate02.tga
+  SkyboxTextureT = Temperate02.tga
+
+End
+
+Variant 3
+
+  SkyboxTextureN = Temperate03.tga
+  SkyboxTextureE = Temperate03.tga
+  SkyboxTextureS = Temperate03.tga
+  SkyboxTextureW = Temperate03.tga
+  SkyboxTextureT = Temperate03.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Jungle
+
+Variant 1
+
+  SkyboxTextureN = Jungle01.tga
+  SkyboxTextureE = Jungle01.tga
+  SkyboxTextureS = Jungle01.tga
+  SkyboxTextureW = Jungle01.tga
+  SkyboxTextureT = Jungle01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Jungle02.tga
+  SkyboxTextureE = Jungle02.tga
+  SkyboxTextureS = Jungle02.tga
+  SkyboxTextureW = Jungle02.tga
+  SkyboxTextureT = Jungle02.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Mountains
+
+Variant 1
+
+  SkyboxTextureN = Mountains01.tga
+  SkyboxTextureE = Mountains01.tga
+  SkyboxTextureS = Mountains01.tga
+  SkyboxTextureW = Mountains01.tga
+  SkyboxTextureT = Mountains01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Mountains02.tga
+  SkyboxTextureE = Mountains02.tga
+  SkyboxTextureS = Mountains02.tga
+  SkyboxTextureW = Mountains02.tga
+  SkyboxTextureT = Mountains02.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Urban
+
+Variant 1
+
+  SkyboxTextureN = Urban01.tga
+  SkyboxTextureE = Urban01.tga
+  SkyboxTextureS = Urban01.tga
+  SkyboxTextureW = Urban01.tga
+  SkyboxTextureT = Urban01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Urban02.tga
+  SkyboxTextureE = Urban02.tga
+  SkyboxTextureS = Urban02.tga
+  SkyboxTextureW = Urban02.tga
+  SkyboxTextureT = Urban02.tga
+
+End
+
+;-------------------------------------------------------------------------------
+;Ocean
+
+Variant 1
+
+  SkyboxTextureN = Ocean01.tga
+  SkyboxTextureE = Ocean01.tga
+  SkyboxTextureS = Ocean01.tga
+  SkyboxTextureW = Ocean01.tga
+  SkyboxTextureT = Ocean01.tga
+
+End
+
+Variant 2
+
+  SkyboxTextureN = Ocean02.tga
+  SkyboxTextureE = Ocean02.tga
+  SkyboxTextureS = Ocean02.tga
+  SkyboxTextureW = Ocean02.tga
+  SkyboxTextureT = Ocean02.tga
+
+End

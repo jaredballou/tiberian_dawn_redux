@@ -1,0 +1,174 @@
+CONGRATULATIONS ON SUCCESSFULLY DOWNLOADING THE MOD! 
+IF YOU HAVE NOT INSTALLED THE MOD YET, PLEASE READ THE FOLLOWING
+PRE-INSTALLATION INSTRUCTIONS AND WARNINGS!
+
+
+
+:-------------------------------------------------------------------------------
+DISCLAIMER:
+
+THIS MOD HAS BEEN TESTED ON SEVERAL DIFFERENT COMPUTERS AND HAS WORKED SUCCESSFULLY! 
+JUST ENSURE TO INSTALL THE MOD'S FILES IN THE SAME DIRECTORY AS C&C GENERALS ZERO HOUR! 
+IF YOU DO NOT HAVE C&C THE FIRST DECADE YOU MAY NEED TO CHECK YOUR INSTALLATION DIRECTORY 
+TO FIND YOUR PROPER ZERO HOUR GAME DIRECTORY. IF A DIALOG BOX POPS UP DURING INSTALLATION 
+ASKING YOU TO OVERWRITE FILES, JUST CLICK "YES" OR "YES TO ALL", THIS WILL ENSURE THAT 
+ALL THE MOD FILES ARE SUCCESSFULLY INSTALLED! 
+ALSO MAKE SURE THAT ZERO HOUR IS PATCHED TO VERSION 1.04! 
+
+FAILING TO TAKE THESE STEPS IS THE #1 CAUSE IN SYSTEM ERRORS AND
+USER CONFUSION WITH INSTALLING AND PLAYING THE MOD!
+
+
+:-------------------------------------------------------------------------------
+PRE-INSTALLATION INSTRUCTIONS:
+	
+HELPFUL ADVICE: Even though this mod does include a simple launcher
+system that should not interfere much with your Zero Hour Game Installation,
+I always suggest to make a backup copy of the original directory files and 
+put them in a safe place. In the case that the uninstall program fails, you can 
+revert back to the standard game settings by deleting this mod and then copying 
+and pasting the original settings back into the game directory, just as you had 
+left it originally.
+
+You can also use your copied Zero Hour Folder to install the mod to it. This will 
+allow you to play the mod along with your original Zero Hour game as the installer 
+will identify the copied generals.exe file and make a special shortcut on your 
+desktop to run the mod.
+
+With that done, You can now run the installation program and follow the on screen 
+instructions for installing the Mod.
+
+
+
+:-------------------------------------------------------------------------------
+IMPORTANT! Please take a look at the System Requirements section below:
+
+MINIMUM SYSTEM REQUIREMENTS: 
+
+(As taken from C&C Generals Zero Hour)
+
+OS: Windows XP, Me, 2000, or 98
+Installed: Command & Conquer Generals, Command & Conquer Generals Zero Hour
+CPU: 800 MHz or faster
+RAM: 256 MB RAM or more
+Disc Drive: 8x or faster CD/DVD-ROM drive
+Hard Drive: 2.0 GB or more free space, plus room for maps, saved games, and other extras
+Video: DirectX 8.1 compatible video card i.e. NVIDIA GeForce 2 with 32 MB of memory or greater, ATI Radeon 7500 with 32 MB of memory or greater
+Sound: DirectX 8.1 compatible sound card
+Multiplayer: 56 Kbps Internet Connection or LAN with one set of game discs per player
+512 MB or more RAM needed for 3 or more players
+Cable, DSL or faster connection for 5 or more players
+Keyboard
+Mouse
+
+RECOMMENDED SYSTEM REQUIREMENTS: 
+
+(Preferred for C&C Tiberian Dawn Redux)
+
+OS: Windows XP, or Vista
+Installed: Command & Conquer Generals, Command & Conquer Generals Zero Hour
+CPU: 2 GHz dual core processor or faster
+RAM: 1 GB RAM or more
+Disc Drive: 16x or faster CD/DVD-ROM drive
+Hard Drive: 3.0 GB or more free space, plus room for maps, saved games, and other extras
+Video: AGP or PCI-E DirectX 9.0 compatible video card or better (i.e. NVIDIA GeForce 7 series with 256 MB of memory or greater, ATI Radeon X900 series with 256 MB of memory or greater)
+Sound: DirectX 9.0 compatible sound card
+Multiplayer: Broadband Internet Connection or LAN with one set of game discs per player
+1 GB or more RAM is recommended for 3 or more players
+Cable, DSL or faster connection for 5 or more players
+Keyboard
+Mouse
+
+SPECIAL NOTE: Onboard and Standard PCI Bus Video Cards tend to run slower than AGP Video Cards. 
+PCI-E (express) Video Cards are an exception as they are even faster than AGP Video Cards.
+
+
+
+:-------------------------------------------------------------------------------
+SPECIAL NOTE ON COMPATIBILITY TO C&C THE FIRST DECADE AND ZERO HOUR PATCHES:
+
+This mod was developed under Command & Conquer Generals Zero Hour Version 1.04
+
+I have not discovered any problems with either the patches or with the version in Command & Conquer The First Decade. 
+So, this mod should be compatible with all patches and with Command & Conquer The First Decade.
+
+
+:-------------------------------------------------------------------------------
+INSTALLING TO C&C THE FIRST DECADE:
+
+Here is the default directory that you should install this mod to:
+(Otherwise, you just need to install the mod to wherever you installed C&C The First Decade to.)
+
+C:\Program Files(x86)\EA Games\Command & Conquer The First Decade\Command & Conquer(tm) Generals Zero Hour
+
+
+:-------------------------------------------------------------------------------
+INSTALLING TO THE ORIGINAL C&C GENERALS ZERO HOUR:
+
+C:\Program Files(x86)\EA Games\Command & Conquer Generals Zero Hour 
+
+Here is the default directory that you should install this mod to:
+(Otherwise, you just need to install the mod to wherever you installed C&C Generals Zero Hour to.)
+
+
+:-------------------------------------------------------------------------------
+FOR EA ORIGIN INSTALLATION: 
+
+C:\Program Files (x86)\Origin Games\Command and Conquer Generals Zero Hour\Command and Conquer Generals Zero Hour
+
+
+
+
+
+
+
+
+You may place a question, comment, or idea at: 
+sgtmyers88@yahoo.com
+
+ALL FEEDBACK (GOOD OR BAD) IS MUCH APPRECIATED!!!
+
+
+
+MOD CREDITS:
+
+
+
+Command & Conquer Tiberian Dawn Redux was made by
+sgtmyers88 and the C&C TD Redux Development Team.
+
+
+Regarding Featured C&C Community Fan Made Maps 
+Special Thanks Goes To The Following Map Makers:
+
+Lion, Bhones, Kodiax, Orca, vlado32, uNkn0wNmaPr,
+GliXerin, Pivac, The H4mm3r, R4v3n, BlckWyerve,
+hawk10314, JCantanero, Mapmaker
+
+
+A big special thanks goes to Nyerguds and VectorIV for the launcher help.
+
+ 
+ALSO, SGTMYERS88 WISHES TO GIVE A VERY SPECIAL THANKS TO ALL THE C&C FANS AND TO THE DEV TEAMS
+WHO MADE THESE GAMES AND MODS WHICH HELPED MAKE THIS MOD POSSIBLE!
+
+
+The C&C Tiberian Dawn and Renegade soundtracks featured in this Mod was brought to you by 
+Frank Klepacki (www.frankklepacki.com)
+
+
+Command & Conquer Tiberian Dawn Redux was based on the
+original Command & Conquer created by Westwood Studios.
+
+We also wish to thank Westwood Studios and Electronic Arts for all the C&C Games that have been 
+brought to us over the years! Keep em` comin as this Mod was meant to be a tribute to you and the fans!
+
+
+MOD WEBSITE: http://cnctdredux.cnc-comm.com
+
+MODDB PROFILE: http://www.moddb.com/mods/command-conquer-tiberian-dawn-redux
+
+MOD FORUMS: http://cnc-comm.com/community/index.php?board=61.0
+
+
+2015 sgtmyers88 & the C&C Tiberian Dawn Redux Development Team
