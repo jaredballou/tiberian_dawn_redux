@@ -5,7 +5,7 @@ PRE-INSTALLATION INSTRUCTIONS AND WARNINGS!
 
 
 :-------------------------------------------------------------------------------
-DISCLAIMER:
+ DISCLAIMER:
 
 THIS MOD HAS BEEN TESTED ON SEVERAL DIFFERENT COMPUTERS AND HAS WORKED SUCCESSFULLY! 
 JUST ENSURE TO INSTALL THE MOD'S FILES IN THE SAME DIRECTORY AS C&C GENERALS ZERO HOUR! 
@@ -20,7 +20,7 @@ USER CONFUSION WITH INSTALLING AND PLAYING THE MOD!
 
 
 :-------------------------------------------------------------------------------
-PRE-INSTALLATION INSTRUCTIONS:
+ PRE-INSTALLATION INSTRUCTIONS:
 	
 HELPFUL ADVICE: Even though this mod does include a simple launcher
 system that should not interfere much with your Zero Hour Game Installation,
@@ -41,7 +41,7 @@ instructions for installing the Mod.
 
 
 :-------------------------------------------------------------------------------
-IMPORTANT! Please take a look at the System Requirements section below:
+ IMPORTANT! Please take a look at the System Requirements section below:
 
 MINIMUM SYSTEM REQUIREMENTS: 
 
@@ -67,14 +67,14 @@ RECOMMENDED SYSTEM REQUIREMENTS:
 
 OS: Windows XP, or Vista
 Installed: Command & Conquer Generals, Command & Conquer Generals Zero Hour
-CPU: 2 GHz dual core processor or faster
-RAM: 1 GB RAM or more
+CPU: 3.0 GHz dual core processor or faster
+RAM: 2 GB RAM or more
 Disc Drive: 16x or faster CD/DVD-ROM drive
 Hard Drive: 3.0 GB or more free space, plus room for maps, saved games, and other extras
-Video: AGP or PCI-E DirectX 9.0 compatible video card or better (i.e. NVIDIA GeForce 7 series with 256 MB of memory or greater, ATI Radeon X900 series with 256 MB of memory or greater)
+Video: AGP or PCI-E DirectX 9.0 compatible video card or better (i.e. NVIDIA GeForce 7 series with 1GB of memory or greater, ATI Radeon X900 series with 1GB of memory or greater)
 Sound: DirectX 9.0 compatible sound card
 Multiplayer: Broadband Internet Connection or LAN with one set of game discs per player
-1 GB or more RAM is recommended for 3 or more players
+3 GB or more RAM is recommended for 3 or more players
 Cable, DSL or faster connection for 5 or more players
 Keyboard
 Mouse
@@ -85,7 +85,7 @@ PCI-E (express) Video Cards are an exception as they are even faster than AGP Vi
 
 
 :-------------------------------------------------------------------------------
-SPECIAL NOTE ON COMPATIBILITY TO C&C THE FIRST DECADE AND ZERO HOUR PATCHES:
+ SPECIAL NOTE ON COMPATIBILITY TO C&C THE FIRST DECADE AND ZERO HOUR PATCHES:
 
 This mod was developed under Command & Conquer Generals Zero Hour Version 1.04
 
@@ -94,7 +94,7 @@ So, this mod should be compatible with all patches and with Command & Conquer Th
 
 
 :-------------------------------------------------------------------------------
-INSTALLING TO C&C THE FIRST DECADE:
+ INSTALLING TO C&C THE FIRST DECADE:
 
 Here is the default directory that you should install this mod to:
 (Otherwise, you just need to install the mod to wherever you installed C&C The First Decade to.)
@@ -103,7 +103,7 @@ C:\Program Files(x86)\EA Games\Command & Conquer The First Decade\Command & Conq
 
 
 :-------------------------------------------------------------------------------
-INSTALLING TO THE ORIGINAL C&C GENERALS ZERO HOUR:
+ INSTALLING TO THE ORIGINAL C&C GENERALS ZERO HOUR:
 
 C:\Program Files(x86)\EA Games\Command & Conquer Generals Zero Hour 
 
@@ -112,14 +112,17 @@ Here is the default directory that you should install this mod to:
 
 
 :-------------------------------------------------------------------------------
-FOR EA ORIGIN INSTALLATION: 
+ FOR EA ORIGIN INSTALLATION: 
 
 C:\Program Files (x86)\Origin Games\Command and Conquer Generals Zero Hour\Command and Conquer Generals Zero Hour
 
 
 
-
-
+:-------------------------------------------------------------------------------
+ COMPATIBILITY MODE FOR WINDOWS VISTA AND LATER: 
+A common issue you may encounter is the Main Menu is not working correctly or the cinematic videos are not playing.
+Make sure your generals.exe is set to run in WinXP SP2 Compatibility mode to fix this. 
+Also ensure you are running it as an Administrator.
 
 
 
@@ -129,10 +132,7 @@ sgtmyers88@yahoo.com
 ALL FEEDBACK (GOOD OR BAD) IS MUCH APPRECIATED!!!
 
 
-
 MOD CREDITS:
-
-
 
 Command & Conquer Tiberian Dawn Redux was made by
 sgtmyers88 and the C&C TD Redux Development Team.
@@ -164,11 +164,13 @@ We also wish to thank Westwood Studios and Electronic Arts for all the C&C Games
 brought to us over the years! Keep em` comin as this Mod was meant to be a tribute to you and the fans!
 
 
+FACEBOOK PAGE: https://www.facebook.com/TDReduxMod/
+
 MOD WEBSITE: http://cnctdredux.cnc-comm.com
 
 MODDB PROFILE: http://www.moddb.com/mods/command-conquer-tiberian-dawn-redux
 
-MOD FORUMS: http://cnc-comm.com/community/index.php?board=61.0
+MOD FORUMS: https://forums.cncnet.org/forum/26-tiberian-dawn-redux/
 
 
-2015 sgtmyers88 & the C&C Tiberian Dawn Redux Development Team
+©2017 sgtmyers88 & the C&C Tiberian Dawn Redux Development Team

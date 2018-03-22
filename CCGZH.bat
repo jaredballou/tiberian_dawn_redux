@@ -2,10 +2,18 @@
 
 color a
 
+echo.
+
+echo INITIALIZING CNC GENERALS ZERO HOUR
+
+echo.
+
+echo PLEASE STAND BY . . .
+
 if exist Data\Scripts\.         rmdir /S /Q Data\Scripts\
 
 if exist d3d8.txt               del d3d8.txt
-if exist d3d8.dll               ren d3d8.dll               d3d8.dat
+if exist d3d8.dat               ren d3d8.dat               d3d8.dll
 
 if exist Install_Final.bmp      ren Install_Final.bmp      Install_Final_tdr.bmp
 if exist launcher.bmp           ren launcher.bmp           launcher_tdr.bmp
@@ -28,7 +36,7 @@ if exist Shaders2ZH.big         ren Shaders2ZH.big         Shaders2ZH.dat
 
 echo WARNING! DO NOT CLOSE THIS WINDOW!
 
-start /wait generals.exe
+start /wait generals.exe -xres 1920 -yres 1080
 
 goto exit
 

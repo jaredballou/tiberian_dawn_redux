@@ -4,7 +4,7 @@ color a
 
 if exist Data\Scripts\.         rmdir /S /Q Data\Scripts\
 
-if exist d3d8.txt               del d3d8.txt
+if exist d3d8.txt               del d3d8.txt               
 if exist d3d8.dll               ren d3d8.dll               d3d8.dat
 
 if exist Install_Final.bmp      ren Install_Final.bmp      Install_Final_tdr.bmp
@@ -25,6 +25,7 @@ if exist 00_CCTDRDXSHADERS2.big ren 00_CCTDRDXSHADERS2.big 00_CCTDRDXSHADERS2.td
 if exist 01_CCTDRDXPATCH.big    ren 01_CCTDRDXPATCH.big    01_CCTDRDXPATCH.tdr
 
 if exist Shaders2ZH.big         ren Shaders2ZH.big         Shaders2ZH.dat
+if exist Shaders2ZH.big         del Shaders2ZH.big   
 
 @ECHO.
 

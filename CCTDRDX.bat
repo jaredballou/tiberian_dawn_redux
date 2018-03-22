@@ -25,11 +25,11 @@ if exist 00_CCTDRDXLANGUAGE.tdr ren 00_CCTDRDXLANGUAGE.tdr 00_CCTDRDXLANGUAGE.bi
 if exist 00_CCTDRDXMAPS.tdr     ren 00_CCTDRDXMAPS.tdr     00_CCTDRDXMAPS.big
 if exist 00_CCTDRDXWINDOW.tdr   ren 00_CCTDRDXWINDOW.tdr   00_CCTDRDXWINDOW.big
 if exist 00_CCTDRDXSHADERS.tdr  ren 00_CCTDRDXSHADERS.tdr  00_CCTDRDXSHADERS.big
-:if exist 00_CCTDRDXSHADERS2.tdr ren 00_CCTDRDXSHADERS2.tdr 00_CCTDRDXSHADERS2.big
+if exist 00_CCTDRDXSHADERS2.tdr ren 00_CCTDRDXSHADERS2.tdr 00_CCTDRDXSHADERS2.big
 if exist 01_CCTDRDXPATCH.tdr    ren 01_CCTDRDXPATCH.tdr    01_CCTDRDXPATCH.big
 
 if exist d3d8.txt               del d3d8.txt
-if exist d3d8.dll               ren d3d8.dll               d3d8.dat
+if exist d3d8.dat               ren d3d8.dat               d3d8.dll
 
 if exist Shaders2ZH.big         ren Shaders2ZH.big         Shaders2ZH.dat
 
@@ -37,7 +37,7 @@ if exist Data\Scripts\.         rmdir /S /Q Data\Scripts\
 
 echo WARNING! DO NOT CLOSE THIS WINDOW!
 
-start /wait "title" "generals.exe"
+start /wait generals.exe -xres 1920 -yres 1080
 
 goto exit
 

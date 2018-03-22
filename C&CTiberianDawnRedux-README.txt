@@ -1,7 +1,7 @@
 YOU HAVE DOWNLOADED A COMMAND & CONQUER
       GENERALS ZERO HOUR MOD
 COMMAND & CONQUER TIBERIAN DAWN REDUX
-             VERSION 1.4
+             VERSION 1.44
 By sgtmyers88 & the C&CTD Redux Dev. Team
 PLEASE DO NOT EDIT THIS WITHOUT OUR PERMISSION!
 
@@ -11,12 +11,12 @@ characters and themes from the game? Remember the gritty feeling
 of RTS Warfare? Remember Tiberium?
 
 Well, that classic game from the early 90's that spawned over a dozen titles
-and revolutionized the RTS Gaming World has been reincarnated in the advanced
-3D RTS World of the C&C Generals SAGE 3D Game Engine and looks better than ever!
+and revolutionized the RTS Gaming World has been reincarnated in the C&C Generals
+SAGE 3D Game Engine and looks better than ever!
 
 All the classic units and themes are back, the original videos and music are all here too. 
-As a special bonus, several of the GDI and NOD missions have been recreated in the best detail
-possible. More missions will become available once they are completed! However, you can dish it
+As a special bonus, the GDI and NOD missions have been recreated in the best detail
+possible with over 30 playable campaign missions! However, you can dish it
 out in a skirmish or multiplayer game to your hearts content, as this Mod does work in both modes! 
 
 This Mod also explores the "special" units and features that the first Command & Conquer shown
@@ -29,42 +29,63 @@ great battle where Kane was presumed dead.
 SEE BELOW FOR FEATURES AND UPDATES:
 
 
+:-------------------------------------------------------------------------------
+ VERSION 1.44 CHANGELIST:
+
+4 additional campaign missions completed with their respective intro videos
+Several minor unit cost and unit rebalancing changes, most being minor AI tweaks made to both the campaigns and skirmish mode.
 
 :-------------------------------------------------------------------------------
-VERSION 1.4 UPDATES:
+ PRIOR PATCH VERSION CHANGELIST:
 
- Visual optimization to the in-game graphics
- Several vehicle and structure models reworked & retextured
- Skirmish AI rebuilt and optimized for a better gameplay experience
- Skirmish AI utilizes more units and buildings
- Maps and singleplayer missions debugged/re-scripted
- Added new visual details to several units and buildings
- Tiberium spawning optimized to avoid game lag/crashes
- Balance fixes to several units and buildings
- Harvester and MCV movement speed slightly increased
- Base Defense Armor/HP increased
- Optimized water and terrain textures
- APC's and Transport Helicopters can now heal infantry
- Engineers can Disable & Repair Vehicles
- New RailGun Base Defense for Talon Subfaction (replaces Artillery Platform from v1.3)
- New Laser Turret for Black Hand Subfaction (replaces Flame Turret from v1.3)
-
- In order to resolve AI issues with the Conyard built Tiberium Refinery that disabled the
- Harvesters ability to automatically collect Tiberium and return it to the Refinery,
- the Harvesters will no longer be automatically spawned to harvest Tiberium. There is now
- a button available at the Refinery that you can click on to spawn the Harvester. 
- NOTE: If you forget to deploy the harvester you may recieve a EVA notification about it.
- Strangely enough, if you build a Tiberium Refinery using the MCV as a Dozer, the bug does
- not occur.
+8 additional campaign missions completed with their respective intro videos
+Fixed an AI exploit preventing tank machine guns from damaging aircraft
+M110 Artillery (Nod) speed slightly decreased
+Assault APC price increased from $500 to $800 (pre-loaded with two Rocket Soldiers now)
+Airfields (excluding Nod Airstrip) reduced from $2000 to $1000
+Grenadiers made more powerful and more accurate (to encourage use over rocket soldiers)
+Both vehicle missile and machine gun upgrades reduced from $1000 to $600
+Power Plant HP increased from 800 to 1000
+Tiberium Silo Auto Deposit Amount reduced from $200 to $75
+Mammoth Tank Armor and speed slightly decreased (including Adv. Mammoth)
+Mammoth Tusk Missile Firing Rate slightly decreased
+Flame Tank Armor slightly increased
+Helicopter and fighter jet locomotors slowed to reduce graphical and gameplay glitches
+Tiberium income amounts reduced slightly
+Tiberium growth rate significantly reduced (to reduce lag and game crashes from overpopulation)
+Weapons can now fire over low profile structures without exploding over them (Helipad, Repair Bay, .etc)
+Guard Tower damage and firing rate slightly increased
+APC machine gun firing burst rate decreased (does not apply to Assault APC)
+Bradley (Light Tank) speed slightly decreased
+Grand Canyon Skirmish Map rebalanced and reduced to 3 players to fix AI issues
+Dynamite Dunes Skirmish Map rebalanced
+Armored Assault Skirmish Map rebalanced
+Framerate improvements on the Tiberium Gardens Skirmish Map
+Framerate improvements to GDI SPEC OPS Mission #1
+Framerate improvements to GDI Mission #8
+Fixed an issue preventing players from finishing Nod Mission #4
+Engineers can now hijack and not simply disable unarmed vehicles (MCV and Harvester)
+Tank and Missile projectile splash damage reduced
+Several models have been reworked and retextured
 
 :-------------------------------------------------------------------------------
- SPECIAL NOTE: If you have not figured out how the Conyard System works you will have to click
- on a button specifically labeled "Activate Conyard System" in the Conyard menu to activate it. 
- The deployment buttons are simply labeled "Deploy Conyard" (found in the MCV build menu) and 
- "Undeploy Conyard" (found in the Conyard build menu). Use caution however as you can
- "suicide" your forces in a Skirmish/Multiplayer game by clicking "Undeploy Conyard"
- with no other buildings constructed. Doing this will end the game in defeat for you!
- This is a scripting issue that could not be resolved.
+ SPECIAL NOTES AS OF VERSION 1.4 AND LATER:
+
+In order to resolve AI issues with the Conyard built Tiberium Refinery that disabled the
+Harvesters ability to automatically collect Tiberium and return it to the Refinery,
+the Harvesters will no longer be automatically spawned to harvest Tiberium. There is now
+a button available at the Refinery that you can click on to spawn the Harvester. 
+NOTE: If you forget to deploy the harvester you may recieve a EVA notification about it.
+Strangely enough, if you build a Tiberium Refinery using the MCV as a Dozer, the bug does
+not occur.
+
+If you have not figured out how the Conyard System works you will have to click
+on a button specifically labeled "Activate Conyard System" in the Conyard menu to activate it. 
+The deployment buttons are simply labeled "Deploy Conyard" (found in the MCV build menu) and 
+"Undeploy Conyard" (found in the Conyard build menu). Use caution however as you can
+"suicide" your forces in a Skirmish/Multiplayer game by clicking "Undeploy Conyard"
+with no other buildings constructed. Doing this will end the game in defeat for you!
+This is a scripting issue that could not be resolved.
 
 
 
@@ -235,7 +256,7 @@ VERSION 1.4 UPDATES:
 
 
 :-------------------------------------------------------------------------------
-SETTING UP & FINDING HAMACHI ONLINE NETWORK ROOMS FOR THE MOD:
+ SETTING UP & FINDING HAMACHI ONLINE NETWORK ROOMS FOR THE MOD:
 
 
 1.) Download Hamachi on any site available (use Google for best results)
@@ -258,10 +279,35 @@ access.
 However, you can still use Generals Online as the Beta Testing team has
 been quite successfull playing the Mod through there as well.
 
+:-------------------------------------------------------------------------------
+ RUNNING THE BATCH FILE (Launcher):
 
+Open the Mod starter/launcher shortcut and press "Enter" twice and then it will
+display a menu. This is where you can turn the Mod and Worldbuilder on
+or off and adjust the new graphic effects. When you see *EVA CONSOLE
+PROGRAM OPTIONS* it is working and you are on the right track. Just
+follow the on screen instructions from there. Such as playing the
+Mod... choose Option 1 and press "Enter" and follow the instructions for
+setting your LOD settings. The Mod will then activate!
+
+PLEASE NOTE: The last settings you set will be saved when you click on the "exit" button in the Window. 
+If you do this, the Mod may still be activated and when you go to play Zero Hour, Tiberian Dawn Redux may show up instead!
+Make sure to choose option "6" and "Enter" to clear the Mod from the Game Directory and exit the Console. The console will
+usually exit and reset everything on its own after you exit the game. You can run the Cleanup Utility as an alternative 
+to fix this issue if the mod gets force enabled somehow.
+
+The latest version of the launcher has a built in repair/cleanup utility that makes sure Zero Hour gets restored. 
+There is also a quick launch option included that simply activates the essential mod files and no special effects.
+
+ISSUES WITH RUNNING THE MOD ON EA ORIGIN INSTALLS:
+
+The launcher now has an option for force enabling the Mod. Make sure to select Option 5, then close the window. See warning below.
+
+WARNING: DO NOT SELECT Option 6 to exit the console after doing this as it will reset the game back to vanilla Zero Hour. If you 
+cannot disable the mod, close the console and run the Repair Utility.
 
 :-------------------------------------------------------------------------------
-HOW TO MAKE MANUAL ADJUSTMENTS IN-GAME FOR THE ADVANCED SHADERS:
+ HOW TO MAKE MANUAL ADJUSTMENTS IN-GAME FOR THE ADVANCED SHADERS:
 
 While the Mod Launcher will allow you to choose between playing
 the Mod with or without the advanced shaders and effects. 
@@ -278,7 +324,7 @@ look almost as good as if the Shader 2.0 Mod was actually enabled.
 
 
 :-------------------------------------------------------------------------------
-Frequently Asked Questions (F.A.Q.): (with sgtmyers88's own personal responses)
+ Frequently Asked Questions (F.A.Q.): (with sgtmyers88's own personal responses)
 
 Q1.) Is this Mod for both C&C Generals and the expansion C&C Generals Zero Hour?
 A1.) No this Mod is ONLY compatible with the EXPANSION C&C Generals Zero Hour.
@@ -314,7 +360,7 @@ sure everyone can have a fair chance at experiencing this Mod and that nobody ge
 the dust or in the dark because their PC is not powerful enough.
 
 Q4.) Is this Mod using stuff (e.g. models) from C&C Renegade?
-A4.) Yes it is, during initial development of the Mod, I was still new to model making
+A4.) Originally yes, during initial development of the Mod, I was still new to model making
 and/or being a 3D Artist, so I had used some W3D Models from C&C Renegade that
 were mostly bug free, I did like several of the models used and that is why
 I wanted to stick to using some of the Renegade Models. However, other models
@@ -343,32 +389,24 @@ combination since I could not find proper game code that would allow the capture
 of docked units in a recently captured building.
 
 Q7.) Will this Mod recreate the original story campaigns?
-A7.) Yes to an extent, we currently have several GDI missions and Nod Missions
-completed from the original game which have been designed and scripted in incredible
-detail. We also have one GDI and one Nod mission which are totally new, but they are
-based on popular missions featured in the Covert Operations Expansion and from the
-extra missions featured in console versions of the original Command & Conquer.
-We are continuing to do our best to work on completing the rest of the missions
-for future versions of the Mod. (18 in total in current release)
+A7.) Yes, the  GDI and Nod mission campaigns are completed from the original
+game which have been designed and scripted in incredible detail. There are also some
+GDI and Nod missions which are totally new, but they are based on popular missions 
+featured in the Covert Operations Expansion and from the extra missions featured in 
+console versions of the original Command & Conquer.
 
 Q8.) Since this Mod will include a remake of the original missions, will the branching
 system that enables the player to be able to choose the mission/story path?
 A8.) Unfortunately, I have not found a good method in the ZH campaign system.
-I am still exploring this issue and I hope a development will be made!
 
 
-
-
-
-You can place a question, comment, or idea at: sgtmyers88@hotmail.com
+You can place a question, comment, or idea at: sgtmyers88@yahoo.com
 
 ALL FEEDBACK (GOOD OR BAD) IS MUCH APPRECIATED!!!
 
 
 
 MOD CREDITS:
-
-
 
 Command & Conquer Tiberian Dawn Redux was made by
 sgtmyers88 and the C&C TD Redux Development Team.
@@ -400,15 +438,19 @@ Command & Conquer Tiberian Dawn Redux was based on the
 original Command & Conquer created by Westwood Studios.
 
 
-
-
-
-
 We also wish to thank Westwood Studios and Electronic Arts for all the C&C Games
 that have been brought to us over the years! Keep em` comin as this Mod 
 was meant to be a tribute to you and the fans!
 
 
+FACEBOOK PAGE: https://www.facebook.com/TDReduxMod/
+
+MOD WEBSITE: http://cnctdredux.cnc-comm.com
+
+MODDB PROFILE: http://www.moddb.com/mods/command-conquer-tiberian-dawn-redux
+
+MOD FORUMS: https://forums.cncnet.org/forum/26-tiberian-dawn-redux/
 
 
-2015 sgtmyers88 & the C&C Tiberian Dawn Redux Development Team
+
+©2017 sgtmyers88 & The C&C Tiberian Dawn Redux Development Team
